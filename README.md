@@ -1,5 +1,7 @@
-![ShenXiangzhuang's github stats](https://github-readme-stats.vercel.app/api?username=shenxiangzhuang&count_private=true&show_icons=true&theme=highcontrast&line_height=21) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenxiangzhuang&layout=compact&theme=highcontrast&card_width=240)](https://github.com/anuraghazra/github-readme-stats)
+![ShenXiangzhuang's github stats](https://github-readme-stats.vercel.app/api?username=shenxiangzhuang&count_private=true&show_icons=true&theme=highcontrast&line_height=21&card_width=680) 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenxiangzhuang&layout=compact&theme=highcontrast&card_width=240)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenxiangzhuang&theme=nord_bright" alt="profile">
 
 CARPE DIEM!
 
