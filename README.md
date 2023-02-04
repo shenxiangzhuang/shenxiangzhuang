@@ -1,14 +1,14 @@
 
 <img
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shenxiangzhuang&count_private=true&show_icons=true&theme=light&line_height=16&card_width=680"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shenxiangzhuang&count_private=true&show_icons=true&theme=light&line_height=16&card_width=700"
   alt="ShenXiangzhuang's github stats"
 />
 
 
 <details>
   <summary>Contribution Activity</summary>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenxiangzhuang&theme=nord_bright" alt="profile">
- </details>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenxiangzhuang&theme=nord_bright" alt="profile" width="70%">
+</details>
 
 
 
@@ -18,7 +18,7 @@
 
 <img
   src="https://github.com/shenxiangzhuang/shenxiangzhuang/blob/master/images/stat.svg"
-  alt="Xiangzhuang Shen's WakaTime Activity" width="100%" height=180
+  alt="Xiangzhuang Shen's WakaTime Activity" width="70%" height=180
 />
 </details>
 
