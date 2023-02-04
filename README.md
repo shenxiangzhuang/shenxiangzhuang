@@ -1,10 +1,10 @@
 
 <img
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shenxiangzhuang&count_private=true&show_icons=true&theme=light&line_height=16&card_width=300"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shenxiangzhuang&count_private=true&show_icons=true&theme=light&line_height=16&card_width=680"
   alt="ShenXiangzhuang's github stats"
 />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenxiangzhuang&theme=nord_bright" alt="profile" 
-     width=500 height=150>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenxiangzhuang&theme=nord_bright" alt="profile">
  
 
 
