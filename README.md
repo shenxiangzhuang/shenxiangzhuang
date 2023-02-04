@@ -4,12 +4,16 @@
   alt="ShenXiangzhuang's github stats"
 />
 
+
+<details>
+  <summary>Contribution Activity</summary>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenxiangzhuang&theme=nord_bright" alt="profile">
- 
+ </details>
+
 
 
 <details>
-  <summary>Xiangzhuang Shen's WakaTime Activity</summary>
+  <summary>WakaTime Activity</summary>
   
 
 <img
