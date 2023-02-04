@@ -4,8 +4,8 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenxiangzhuang&theme=nord_bright" alt="profile">
 
 <img
-  src="https://github.com/shengxiangzhuang/shengxiangzhuang/blob/main/images/stat.svg"
-  alt="Xiangzhuang Shen's WakaTime Activity"
+  src="https://github.com/shenxiangzhuang/shenxiangzhuang/blob/master/images/stat.svg"
+  alt="Xiangzhuang Shen's WakaTime Activity" width=680
 />
 
 CARPE DIEM!
