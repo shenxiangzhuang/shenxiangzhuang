@@ -8,8 +8,6 @@
   alt="Xiangzhuang Shen's WakaTime Activity" width=680
 />
 
-CARPE DIEM!
-
 <!--
 **shenxiangzhuang/shenxiangzhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
