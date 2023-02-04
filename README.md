@@ -1,12 +1,26 @@
-![ShenXiangzhuang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shenxiangzhuang&count_private=true&show_icons=true&theme=highcontrast&line_height=21&card_width=680) 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenxiangzhuang&layout=compact&theme=highcontrast&card_width=240)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenxiangzhuang&theme=nord_bright" alt="profile">
+<img
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shenxiangzhuang&count_private=true&show_icons=true&theme=light&line_height=16&card_width=300"
+  alt="ShenXiangzhuang's github stats"
+/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenxiangzhuang&theme=nord_bright" alt="profile" 
+     width=500 height=150>
+ 
+
+
+<details>
+  <summary>Xiangzhuang Shen's WakaTime Activity</summary>
+  
 
 <img
   src="https://github.com/shenxiangzhuang/shenxiangzhuang/blob/master/images/stat.svg"
-  alt="Xiangzhuang Shen's WakaTime Activity" width=680
+  alt="Xiangzhuang Shen's WakaTime Activity" width="100%" height=180
 />
+</details>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenxiangzhuang&layout=compact&theme=highcontrast&card_width=240)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
 
 <!--
 **shenxiangzhuang/shenxiangzhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
