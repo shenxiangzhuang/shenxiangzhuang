@@ -7,7 +7,7 @@
 
 <details>
   <summary>Contribution Activity</summary>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenxiangzhuang&theme=nord_bright" alt="profile" width="70%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenxiangzhuang&theme=nord_bright" alt="profile" width="80%">
 </details>
 
 
@@ -18,7 +18,7 @@
 
 <img
   src="https://github.com/shenxiangzhuang/shenxiangzhuang/blob/master/images/stat.svg"
-  alt="Xiangzhuang Shen's WakaTime Activity" width="70%" height=180
+  alt="Xiangzhuang Shen's WakaTime Activity" width="80%" height=180
 />
 </details>
 
