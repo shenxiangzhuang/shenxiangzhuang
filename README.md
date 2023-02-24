@@ -1,4 +1,8 @@
 
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/shenxiangzhuang/count.svg" />
+</p>
+
 <img
   src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shenxiangzhuang&count_private=true&show_icons=true&theme=light&line_height=16&card_width=700"
   alt="ShenXiangzhuang's github stats"
