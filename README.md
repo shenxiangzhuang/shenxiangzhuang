@@ -1,3 +1,6 @@
+# Hello 👋
+I'm a machine learning engineer aiming to solve real world problems.
+
 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/shenxiangzhuang/count.svg" />
