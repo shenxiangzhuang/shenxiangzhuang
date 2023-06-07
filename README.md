@@ -1,4 +1,3 @@
-### Hello 👋
 I'm a machine learning engineer aiming to solve real world problems.
 
 
