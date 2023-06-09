@@ -1,4 +1,6 @@
+<p align="center"> 
 I'm a machine learning engineer aiming to solve real world problems.
+</p>
 
 
 <p align="center"> 
