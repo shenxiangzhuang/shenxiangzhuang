@@ -18,7 +18,9 @@ I'm a machine learning engineer aiming to solve real world problems.
 <img alt="Xiangzhuang Shen's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenxiangzhuang&theme=react&&hide=jupyter%20notebook,javascript,html,css,tex,shell">
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mathew&layout=compact&langs_count=10" />
+</p>
 
 
 <!-- <details>
