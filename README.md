@@ -13,8 +13,8 @@ I'm a machine learning engineer aiming to solve real world problems.
 </p> -->
 
 <p align="center">
-<img alt="Xiangzhuang Shen's github stats" height='170' src="https://github-readme-stats.vercel.app/api?username=shenxiangzhuang&count_private=true&show_icons=true&include_all_commits=true&theme=react">
-<img alt="Xiangzhuang Shen's github stats" height='170' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenxiangzhuang&theme=react">
+<img alt="Xiangzhuang Shen's github stats" height='150' src="https://github-readme-stats.vercel.app/api?username=shenxiangzhuang&count_private=true&show_icons=true&include_all_commits=true&theme=react">
+<img alt="Xiangzhuang Shen's github stats" height='150' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenxiangzhuang&theme=react">
 </p>
 
 
