@@ -24,7 +24,7 @@ I'm a machine learning engineer aiming to solve real world problems.
 </p> -->
 
 <p align="center">
-  <img height='120' src="https://github-readme-stats.vercel.app/api/wakatime?username=Mathew&theme=react&layout=compact&langs_count=10" />
+  <img height='140' src="https://github-readme-stats.vercel.app/api/wakatime?username=Mathew&theme=react&layout=compact&langs_count=10" />
 </p>
 
 
