@@ -13,8 +13,8 @@ I'm a machine learning engineer aiming to solve real world problems.
 </p> -->
 
 <p align="center">
-<img alt="Xiangzhuang Shen's github stats" height='120' src="https://github-readme-stats.vercel.app/api?username=shenxiangzhuang&count_private=true&show_icons=true&include_all_commits=true&theme=react">
-<img alt="Xiangzhuang Shen's github stats" height='120' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenxiangzhuang&theme=react">
+<img alt="Xiangzhuang Shen's github stats" height='140' src="https://github-readme-stats.vercel.app/api?username=shenxiangzhuang&count_private=true&show_icons=true&include_all_commits=true&theme=react">
+<img alt="Xiangzhuang Shen's github stats" height='140' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenxiangzhuang&theme=react">
 </p>
 
 
@@ -24,7 +24,7 @@ I'm a machine learning engineer aiming to solve real world problems.
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mathew&theme=react&layout=compact&langs_count=10" />
+  <img height='120' src="https://github-readme-stats.vercel.app/api/wakatime?username=Mathew&theme=react&layout=compact&langs_count=10" />
 </p>
 
 
