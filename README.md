@@ -17,9 +17,8 @@ I'm a machine learning engineer aiming to solve real world problems.
 <img alt="Xiangzhuang Shen's github stats" height='140' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenxiangzhuang&theme=react">
 </p> -->
 
-
 <p align="center">
-<img alt="Xiangzhuang Shen's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=shenxiangzhuang&count_private=true&show_icons=true&include_all_commits=true&theme=react">
+<img alt="Xiangzhuang Shen's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=shenxiangzhuang&count_private=true&show_icons=true&include_all_commits=false&theme=react">
 <img alt="Xiangzhuang Shen's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenxiangzhuang&theme=react&&hide=jupyter%20notebook,javascript,html,css,tex,shell">
 </p>
 
