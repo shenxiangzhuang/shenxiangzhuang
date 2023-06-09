@@ -19,7 +19,7 @@ I'm a machine learning engineer aiming to solve real world problems.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mathew&layout=compact&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mathew&theme=react&layout=compact&langs_count=10" />
 </p>
 
 
