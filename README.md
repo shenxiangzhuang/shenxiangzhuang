@@ -10,7 +10,7 @@ Now I'm a machine learning engineer aiming to solve real world problems.
 - 🔭 I used to work on algorithm research related to network security at 
 [Tencent](https://github.com/Tencent), 
 mainly focusing on anomaly detection algorithms based on association analysis 
-and riverbed space clustering, with the application direction being anti-robot.
+and subspace clustering, with the application direction being anti-robot.
 I am very happy that our algorithm is effective and has intercepted many attacks. 
 I am also very grateful to my leader Mr. Liao, 
 whose years of experience in the security field have greatly helped me in my work.
