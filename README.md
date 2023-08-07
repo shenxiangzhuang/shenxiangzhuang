@@ -2,6 +2,7 @@
   <img src="https://profile-counter.glitch.me/shenxiangzhuang/count.svg" />
 </p>
 
+# About [Mathew Shen]
 - 🔭 I majored in statistics in both undergraduate and graduate studies, 
 and I am also interested in data mining/machine learning. 
 Now I'm a machine learning engineer aiming to solve real world problems.
@@ -22,9 +23,14 @@ with the main goal being to detect system failures in advance
 and locate the root cause timely to reduce MTTR (Mean time to repair)
 based on Metrics, Log, and Trace.
 
-- 🌱 I’m currently working on my toys:[ToyData: Data Structures from Scratch](https://datahonor.com/toydata/), 
-[ToyML: Machine Learning from Scratch](https://datahonor.com/toyml/),
-[ToyDL: Deep Learning from Scratch ](https://datahonor.com/toydl/)
+- 🔭 Now, I'm a Machine learning Engineer at NetEase. And I'm focusing on Crowdsourcing and Human Computation.
+
+# Presentation
+
+- 2023/08/03: [Data Mining Odyssey](https://github.com/shenxiangzhuang/CareerPublic/blob/f63459e5efcfbdc4843151471905eae17fa68b8d/presentation/review/2023/career_review_2023_public.pdf)
+
+
+# Current Projects
 
 
 
@@ -40,6 +46,10 @@ based on Metrics, Log, and Trace.
 <img alt="Xiangzhuang Shen's github stats" height='140' src="https://github-readme-stats.vercel.app/api?username=shenxiangzhuang&count_private=true&show_icons=true&include_all_commits=true&theme=react">
 <img alt="Xiangzhuang Shen's github stats" height='140' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenxiangzhuang&theme=react">
 </p> -->
+
+- 🌱 I’m currently working on my toys:[ToyData: Data Structures from Scratch](https://datahonor.com/toydata/), 
+[ToyML: Machine Learning from Scratch](https://datahonor.com/toyml/),
+[ToyDL: Deep Learning from Scratch ](https://datahonor.com/toydl/)
 
 
 [//]: # (- 🔭 我在本科和研究生都主修统计相关专业，对数据挖掘/机器学习也比较感兴趣。)
