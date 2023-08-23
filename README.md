@@ -23,7 +23,7 @@ with the main goal being to detect system failures in advance
 and locate the root cause timely to reduce MTTR (Mean time to repair)
 based on Metrics, Log, and Trace.
 
-- 🔭 Now, I'm a Machine learning Engineer at NetEase. And I'm focusing on Crowdsourcing and Human Computation.
+- 🔭 Now, I'm a Machine learning Engineer at [NetEase Fuxi](https://fuxi.163.com/). And I'm focusing on Crowdsourcing and Human Computation.
 
 # Presentation
 
