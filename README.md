@@ -47,9 +47,7 @@ based on Metrics, Log, and Trace.
 <img alt="Xiangzhuang Shen's github stats" height='140' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenxiangzhuang&theme=react">
 </p> -->
 
-- 🌱 I’m currently working on my toys:[ToyData: Data Structures from Scratch](https://datahonor.com/toydata/), 
-[ToyML: Machine Learning from Scratch](https://datahonor.com/toyml/),
-[ToyDL: Deep Learning from Scratch ](https://datahonor.com/toydl/)
+- 🌱 I’m currently working on my [Toys](https://datahonor.com/project/toys/): ToyML, ToyDL, ...
 
 
 [//]: # (- 🔭 我在本科和研究生都主修统计相关专业，对数据挖掘/机器学习也比较感兴趣。)
