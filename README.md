@@ -8,7 +8,7 @@ and I am also interested in data mining/machine learning.
 Now I'm a machine learning engineer aiming to solve real world problems.
 
 
-- 🔭 I used to work on algorithm research related to network security at 
+- 🔭 I used to work on algorithm research related to network security(risk management) at 
 [Tencent](https://github.com/Tencent), 
 mainly focusing on anomaly detection algorithms based on association analysis 
 and subspace clustering, with the application direction being anti-robot.
