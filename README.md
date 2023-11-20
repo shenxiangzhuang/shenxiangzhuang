@@ -28,7 +28,6 @@ based on Metrics, Log, and Trace.
 # Presentation
 - 2020/09/12: [Technical debt in machine learning systems](https://github.com/shenxiangzhuang/career-public/blob/master/presentation/mlsys/ML-Debt.pdf)
 - 2023/08/03: [Data Mining Odyssey](https://github.com/shenxiangzhuang/career-public/blob/master/presentation/review/2023/career_review_2023_public.pdf)
-- 
 
 
 # Current Projects
