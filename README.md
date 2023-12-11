@@ -26,8 +26,8 @@ based on Metrics, Log, and Trace.
 - 🔭 Now, I'm a Machine learning Engineer at [NetEase Fuxi](https://fuxi.163.com/). And I'm focusing on Data-Centric AI.
 
 # Presentation
-- 2020/09/12: [Technical debt in machine learning systems](https://github.com/shenxiangzhuang/career-public/blob/master/presentation/mlsys/ML-Debt.pdf)
-- 2023/08/03: [Data Mining Odyssey](https://github.com/shenxiangzhuang/career-public/blob/master/presentation/review/2023/career_review_2023_public.pdf)
+- 2020/09: [Technical debt in machine learning systems](https://github.com/shenxiangzhuang/career-public/blob/master/presentation/mlsys/ML-Debt.pdf)
+- 2023/08: [Data Mining Odyssey](https://github.com/shenxiangzhuang/career-public/blob/master/presentation/review/2023/career_review_2023_public.pdf)
 - 2023/12: [MPPT: A Modern Python Package Template](https://github.com/shenxiangzhuang/career-public/blob/master/presentation/mppt.pdf)
 
 # Current Projects
