@@ -21,7 +21,7 @@ I am very happy that our algorithm is effective and has intercepted many attacks
 I am also very grateful to my leader Mr. Liao, 
 whose years of experience in the security field have greatly helped me in my work.
 
-- 🔭 Prior to this, I majored in statistics in both undergraduate(HNU) and graduate(SYSU) studies.
+- 🔭 I majored in statistics in both undergraduate(HNU) and graduate(SYSU) studies.
 
 
 # Presentation
