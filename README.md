@@ -3,25 +3,13 @@
 </p>
 
 # About [Mathew Shen]
-- 🔭 Currently, I'm a Machine learning Engineer at [NetEase Fuxi](https://fuxi.163.com/). And I'm focusing on Data-Centric AI.
+- 🔭 Currently, I'm a Senior Machine Learning Engineer at [NetEase Fuxi](https://fuxi.163.com/), focusing on Data-Centric AI initiatives.
 
-- 🔭 Previously, I went to [ByteDance](https://github.com/bytedance) 
-and worked on algorithm research and deployment in the AIOps field. 
-The main research directions were time series forcast/anomaly detection, root cause analysis, etc., 
-with the main goal being to detect system failures in advance 
-and locate the root cause timely to reduce MTTR (Mean time to repair)
-based on Metrics, Log, and Trace.
+- 🔭 Previously, I worked at [ByteDance](https://github.com/bytedance) as an Machine Learning Engineer in the AIOps field. My primary focus was on developing and implementing algorithms for time series forecasting, anomaly detection, and root cause analysis. The main objective was to proactively detect system failures and swiftly identify root causes, thereby reducing Mean Time To Repair (MTTR) through the analysis of Metrics, Logs, and Traces.
 
+- 🔭 Prior to ByteDance, I contributed to algorithm research in network security (risk management) at [Tencent](https://github.com/Tencent). My work centered on developing anomaly detection algorithms leveraging association analysis and subspace clustering techniques, with a primary application in anti-robot systems. I take pride in the effectiveness of our algorithms, which successfully intercepted numerous attacks. I'm deeply grateful to my mentor, Mr. Liao, whose extensive experience in the security field significantly enhanced my professional growth.
 
-- 🔭 Before that, I used to work on algorithm research related to network security(risk management) at 
-[Tencent](https://github.com/Tencent), 
-mainly focusing on anomaly detection algorithms based on association analysis 
-and subspace clustering, with the application direction being anti-robot.
-I am very happy that our algorithm is effective and has intercepted many attacks. 
-I am also very grateful to my leader Mr. Liao, 
-whose years of experience in the security field have greatly helped me in my work.
-
-- 🔭 I majored in statistics in both undergraduate(HNU) and graduate(SYSU) studies.
+- 🔭 My academic background is in statistics, having earned both my undergraduate degree from Hainan University (HNU) and my graduate degree from Sun Yat-sen University (SYSU) in this field.
 
 
 # Presentation
