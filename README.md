@@ -3,7 +3,7 @@
 </p>
 
 # About [Mathew Shen]
-- 🔭 Currently, I'm a Senior Machine Learning Engineer at [NetEase Fuxi](https://fuxi.163.com/), focusing on Data-Centric AI initiatives.
+- 🔭 Currently, I'm a Senior Machine Learning Engineer at [NetEase Fuxi](https://fuxi.163.com/), focusing on Data-Centric AI.
 
 - 🔭 Previously, I worked at [ByteDance](https://github.com/bytedance) as an Machine Learning Engineer in the AIOps field. My primary focus was on developing and implementing algorithms for time series forecasting, anomaly detection, and root cause analysis. The main objective was to proactively detect system failures and swiftly identify root causes, thereby reducing Mean Time To Repair (MTTR) through the analysis of Metrics, Logs, and Traces.
 
