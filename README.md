@@ -9,7 +9,7 @@
 
 - 🔭 Prior to ByteDance, I contributed to algorithm research in network security (risk management) at [Tencent](https://github.com/Tencent). My work centered on developing anomaly detection algorithms leveraging association analysis and subspace clustering techniques, with a primary application in anti-robot systems. I take pride in the effectiveness of our algorithms, which successfully intercepted numerous attacks. I'm deeply grateful to my mentor, Mr. Liao, whose extensive experience in the security field significantly enhanced my professional growth.
 
-- 🔭 My academic background is in statistics, having earned both my undergraduate degree from Hainan University (HNU) and my graduate degree from Sun Yat-sen University (SYSU) in this field.
+- 🔭 My academic background is in statistics, having earned both my undergraduate degree from Hainan University (HNU) and my graduate degree from Sun Yat-sen University ([SYSU](https://github.com/sysu)) in this field.
 
 
 # Presentation
