@@ -12,6 +12,9 @@
 - 🔭 My academic background is in statistics, having earned both my undergraduate degree from Hainan University (HNU) and my graduate degree from Sun Yat-sen University ([SYSU](https://github.com/sysu)) in this field.
 
 
+# Blog
+- [LLM in 2024](https://datahonor.com/blog/2024/12/23/ai_think_2024/)
+
 # Presentation
 - 2024/07: [Build Modern Python Application——MPPT Practice](https://datahonor.com/mppt/#news)
 - 2023/12: [MPPT: A Modern Python Package Template](https://github.com/shenxiangzhuang/career-public/blob/master/presentation/mppt.pdf)
