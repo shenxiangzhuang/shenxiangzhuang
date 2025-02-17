@@ -13,7 +13,8 @@
 
 
 # Blog
-- [LLM in 2024](https://datahonor.com/blog/2024/12/23/ai_think_2024/)
+- 2024-12: [LLM in 2024](https://datahonor.com/blog/2024/12/23/ai_think_2024/)
+- 2024-08: [Dawid-Skene 算法](https://datahonor.com/blog/2024/08/21/ds/)
 
 # Presentation
 - 2024/07: [Build Modern Python Application——MPPT Practice](https://datahonor.com/mppt/#news)
