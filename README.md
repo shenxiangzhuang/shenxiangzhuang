@@ -11,6 +11,10 @@
 
 - 🔭 My academic background is in statistics, having earned both my undergraduate degree from Hainan University (HNU) and my graduate degree from Sun Yat-sen University ([SYSU](https://github.com/sysu)) in this field.
 
+# Projects
+- [zhplot](https://github.com/shenxiangzhuang/zhplot): 一行代码搞定 Python 图表中文展示
+- [mppt](https://github.com/shenxiangzhuang/mppt): A Modern Python Package Template
+- [bleuscore](https://github.com/shenxiangzhuang/bleuscore): BLEU Score in Rust
 
 # Blog
 - 2024-12: [LLM in 2024](https://datahonor.com/blog/2024/12/23/ai_think_2024/)
@@ -21,10 +25,6 @@
 - 2023/12: [MPPT: A Modern Python Package Template](https://github.com/shenxiangzhuang/career-public/blob/master/presentation/mppt.pdf)
 - 2023/08: [Data Mining Odyssey](https://github.com/shenxiangzhuang/career-public/blob/master/presentation/review/2023/career_review_2023_public.pdf)
 - 2020/09: [Technical debt in machine learning systems](https://github.com/shenxiangzhuang/career-public/blob/master/presentation/mlsys/ML-Debt.pdf)
-
-# Current Projects
-
-- 🌱 I’m currently working on my [projects](https://datahonor.com/project/)
 
 <p align="center"> 
     <img height='180' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenxiangzhuang&theme=react" />
