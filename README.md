@@ -15,6 +15,8 @@
 - [zhplot](https://github.com/shenxiangzhuang/zhplot): 一行代码搞定 Python 图表中文展示
 - [mppt](https://github.com/shenxiangzhuang/mppt): A Modern Python Package Template
 - [bleuscore](https://github.com/shenxiangzhuang/bleuscore): BLEU Score in Rust
+- [ai glimpse](https://github.com/ai-glimpse): [toyllm](https://github.com/ai-glimpse/toyllm), [toynlp](https://github.com/ai-glimpse/toynlp), [toydl](https://github.com/ai-glimpse/toydl), [toyml](https://github.com/ai-glimpse/toyml)
+- [llm literature](https://github.com/llm-literature): [calvino](https://github.com/llm-literature)
 
 # Blog
 - 2024-12: [LLM in 2024](https://datahonor.com/blog/2024/12/23/ai_think_2024/)
