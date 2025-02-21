@@ -12,7 +12,7 @@
 - 🎓Learning & Eduation
   - 🐍[ai glimpse](https://github.com/ai-glimpse): [toyllm](https://github.com/ai-glimpse/toyllm), [toynlp](https://github.com/ai-glimpse/toynlp), [toydl](https://github.com/ai-glimpse/toydl), [toyml](https://github.com/ai-glimpse/toyml)
   - 🐍[beer](https://github.com/shenxiangzhuang/beer): Challenging Problems in Probability and Statistics
-  - 🐍[Oh-Numpy](https://github.com/shenxiangzhuang/Oh-Numpy), [Oh-PyTorch](https://github.com/shenxiangzhuang/Oh-PyTorch): Numpy & PyTorch Exercises
+  - 🐍[oh-numpy](https://github.com/shenxiangzhuang/Oh-Numpy), [oh-pytorch](https://github.com/shenxiangzhuang/Oh-PyTorch): Numpy & PyTorch Exercises
   - 🐍[toydata](https://github.com/shenxiangzhuang/toydata): Data Structures in Python
 
 - 🔨Tools
