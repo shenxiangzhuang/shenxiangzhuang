@@ -5,13 +5,14 @@
 # About [Mathew Shen]
 - 🔭 Currently, I'm a Senior Machine Learning Engineer at [NetEase Fuxi](https://fuxi.163.com/), focusing on Data-Centric AI.
 - 🔭 Previously, I worked at [ByteDance](https://github.com/bytedance) as an Machine Learning Engineer in the AIOps field. 
-- 🔭 Prior to ByteDance, I contributed to algorithm research in network security (risk management) at [Tencent](https://github.com/Tencent). M
+- 🔭 Prior to ByteDance, I contributed to algorithm research in network security (risk management) at [Tencent](https://github.com/Tencent).
 - 🔭 My academic background is in statistics, having earned both my undergraduate degree from Hainan University (HNU) and my graduate degree from Sun Yat-sen University ([SYSU](https://github.com/sysu)) in this field.
 
 # Projects
 - 🎓Learning & Eduation
   - 🐍[ai glimpse](https://github.com/ai-glimpse): [toyllm](https://github.com/ai-glimpse/toyllm), [toynlp](https://github.com/ai-glimpse/toynlp), [toydl](https://github.com/ai-glimpse/toydl), [toyml](https://github.com/ai-glimpse/toyml)
   - 🐍[beer](https://github.com/shenxiangzhuang/beer): Challenging Problems in Probability and Statistics
+  - 🐍[Oh-Numpy](https://github.com/shenxiangzhuang/Oh-Numpy), [Oh-PyTorch](https://github.com/shenxiangzhuang/Oh-PyTorch): Numpy & PyTorch Exercises
   - 🐍[toydata](https://github.com/shenxiangzhuang/toydata): Data Structures in Python
 
 - 🔨Tools
