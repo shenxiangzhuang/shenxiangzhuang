@@ -36,7 +36,7 @@
 
 
 # Presentation
-- 2024/07: [Build Modern Python Application——MPPT Practice](https://datahonor.com/mppt/#news)
+- 2025/02: [Python算法库构建实践——复杂必须存在于某处](https://github.com/shenxiangzhuang/career-public/blob/master/presentation/algorithm-lib.pdf)
 - 2023/12: [MPPT: A Modern Python Package Template](https://github.com/shenxiangzhuang/career-public/blob/master/presentation/mppt.pdf)
 - 2023/08: [Data Mining Odyssey](https://github.com/shenxiangzhuang/career-public/blob/master/presentation/review/2023/career_review_2023_public.pdf)
 - 2020/09: [Technical debt in machine learning systems](https://github.com/shenxiangzhuang/career-public/blob/master/presentation/mlsys/ML-Debt.pdf)
