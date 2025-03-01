@@ -10,22 +10,22 @@
 
 # Projects
 - 🎓Learning & Eduation
-  - 🐍[ai glimpse](https://github.com/ai-glimpse): [toyllm](https://github.com/ai-glimpse/toyllm), [toynlp](https://github.com/ai-glimpse/toynlp), [toydl](https://github.com/ai-glimpse/toydl), [toyml](https://github.com/ai-glimpse/toyml)
-  - 🐍[beer](https://github.com/shenxiangzhuang/beer): Challenging Problems in Probability and Statistics
-  - 🐍[oh-numpy](https://github.com/shenxiangzhuang/Oh-Numpy), [oh-pytorch](https://github.com/shenxiangzhuang/Oh-PyTorch): Numpy & PyTorch Exercises
-  - 🐍[toydata](https://github.com/shenxiangzhuang/toydata): Data Structures in Python
+    - 🐍[ai glimpse](https://github.com/ai-glimpse): [toyllm](https://github.com/ai-glimpse/toyllm), [toynlp](https://github.com/ai-glimpse/toynlp), [toydl](https://github.com/ai-glimpse/toydl), [toyml](https://github.com/ai-glimpse/toyml)
+    - 🐍[beer](https://github.com/shenxiangzhuang/beer): Challenging Problems in Probability and Statistics
+    - 🐍[oh-numpy](https://github.com/shenxiangzhuang/Oh-Numpy), [oh-pytorch](https://github.com/shenxiangzhuang/Oh-PyTorch): Numpy & PyTorch Exercises
+    - 🐍[toydata](https://github.com/shenxiangzhuang/toydata): Data Structures in Python
 
 - 🔨Tools
-  - 🐍[zhplot](https://github.com/shenxiangzhuang/zhplot): 一行代码搞定 Python 图表中文展示
-  - 🐍[mppt](https://github.com/shenxiangzhuang/mppt): A Modern Python Package Template
-  - 🐍[pysesd](https://github.com/shenxiangzhuang/pysesd): Time Series Seasonal Extreme Studentized Deviate(S-ESD) in Python
-  - 🦀[bleuscore](https://github.com/shenxiangzhuang/bleuscore): BLEU Score in Rust
-  - 💧[qwen](https://github.com/shenxiangzhuang/qwen): Elixir ❤️ Qwen
-  - ✒️[ctexbook-template](https://github.com/shenxiangzhuang/ctexbook-template): 一个不太复杂的中文书籍 LaTeX 模板
-  - ✒️[Presentia](https://github.com/shenxiangzhuang/presentia): Elegant presentation template in LaTeX and Typst
+    - 🐍[zhplot](https://github.com/shenxiangzhuang/zhplot): 一行代码搞定 Python 图表中文展示
+    - 🐍[mppt](https://github.com/shenxiangzhuang/mppt): A Modern Python Package Template
+    - 🐍[pysesd](https://github.com/shenxiangzhuang/pysesd): Time Series Seasonal Extreme Studentized Deviate(S-ESD) in Python
+    - 🦀[bleuscore](https://github.com/shenxiangzhuang/bleuscore): BLEU Score in Rust
+    - 💧[qwen](https://github.com/shenxiangzhuang/qwen): Elixir ❤️ Qwen
+    - ✒️[ctexbook-template](https://github.com/shenxiangzhuang/ctexbook-template): 一个不太复杂的中文书籍 LaTeX 模板
+    - ✒️[Presentia](https://github.com/shenxiangzhuang/presentia): Elegant presentation template in LaTeX and Typst
 
 - 🎉Fun
-  - ⚛️[llm literature](https://github.com/llm-literature): [calvino](https://github.com/llm-literature)
+    - ⚛️[llm literature](https://github.com/llm-literature): [calvino](https://github.com/llm-literature)
 
 
 # Blog
