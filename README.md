@@ -22,6 +22,7 @@
   - 🦀[bleuscore](https://github.com/shenxiangzhuang/bleuscore): BLEU Score in Rust
   - 💧[qwen](https://github.com/shenxiangzhuang/qwen): Elixir ❤️ Qwen
   - ✒️[ctexbook-template](https://github.com/shenxiangzhuang/ctexbook-template): 一个不太复杂的中文书籍 LaTeX 模板
+  - ✒️[Presentia](https://github.com/shenxiangzhuang/presentia): Elegant presentation template in LaTeX and Typst
 
 - 🎉Fun
   - ⚛️[llm literature](https://github.com/llm-literature): [calvino](https://github.com/llm-literature)
