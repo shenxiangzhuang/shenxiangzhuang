@@ -29,6 +29,7 @@
 
 
 # Blog
+- 2025-03: [LLM Speculative Sampling](https://datahonor.com/blog/2025/03/08/llm_sps/)
 - 2025-02: [Deepseek GRPO 中的 KL Divergence](https://datahonor.com/blog/2025/02/23/grpo_kl/)
 - 2025-02: [大语言模型与深度学习书籍推荐](https://datahonor.com/blog/2025/02/20/dl_book/)
 - 2024-12: [LLM in 2024](https://datahonor.com/blog/2024/12/23/ai_think_2024/)
