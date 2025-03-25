@@ -29,6 +29,7 @@
 
 
 # Blog
+- 2025-03: [简单聊一聊 Redis 的锁](https://datahonor.com/blog/2025/03/23/redis_lock/)
 - 2025-03: [LLM Speculative Sampling](https://datahonor.com/blog/2025/03/08/llm_sps/)
 - 2025-02: [Deepseek GRPO 中的 KL Divergence](https://datahonor.com/blog/2025/02/23/grpo_kl/)
 - 2025-02: [大语言模型与深度学习书籍推荐](https://datahonor.com/blog/2025/02/20/dl_book/)
