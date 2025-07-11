@@ -20,6 +20,7 @@
     - 🐍[mppt](https://github.com/shenxiangzhuang/mppt): A Modern Python Package Template
     - 🐍[pysesd](https://github.com/shenxiangzhuang/pysesd): Time Series Seasonal Extreme Studentized Deviate(S-ESD) in Python
     - 🦀[bleuscore](https://github.com/shenxiangzhuang/bleuscore): BLEU Score in Rust
+    - 🦀[shapley](https://github.com/shenxiangzhuang/shapley): Shapley Value in Rust
     - 💧[qwen](https://github.com/shenxiangzhuang/qwen): Elixir ❤️ Qwen
     - ✒️[ctexbook-template](https://github.com/shenxiangzhuang/ctexbook-template): 一个不太复杂的中文书籍 LaTeX 模板
     - ✒️[presentia](https://github.com/shenxiangzhuang/presentia): Elegant presentation template in LaTeX and Typst
