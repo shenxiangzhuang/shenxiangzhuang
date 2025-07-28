@@ -1,6 +1,9 @@
+<!---
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/shenxiangzhuang/count.svg" />
 </p>
+-->
+
 
 # About [Mathew Shen]
 - 🔭 Currently, I'm a Senior Machine Learning Engineer at [NetEase Fuxi](https://fuxi.163.com/), focusing on Data-Centric AI.
