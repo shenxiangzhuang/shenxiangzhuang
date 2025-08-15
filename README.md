@@ -4,6 +4,7 @@
 </p>
 -->
 
+>“Science is not the exclusive province of experts and scholars; it is within everyone’s reach, and whoever undertakes it should arrive at the same results.”  —— Senku Ishigami
 
 # About [Mathew Shen]
 - 🔭 Currently, I'm a Senior Machine Learning Engineer at [NetEase Fuxi](https://fuxi.163.com/), focusing on Data-Centric AI.
