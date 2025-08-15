@@ -3,8 +3,11 @@
   <img src="https://profile-counter.glitch.me/shenxiangzhuang/count.svg" />
 </p>
 -->
+>“士之读书治学，盖将以脱心志于俗谛之桎梏，真理因得以发扬。” —— 陈寅恪
 
 >“Science is not the exclusive province of experts and scholars; it is within everyone’s reach, and whoever undertakes it should arrive at the same results.”  —— Senku Ishigami
+>
+
 
 # About [Mathew Shen]
 - 🔭 Currently, I'm a Senior Machine Learning Engineer at [NetEase Fuxi](https://fuxi.163.com/), focusing on Data-Centric AI.
