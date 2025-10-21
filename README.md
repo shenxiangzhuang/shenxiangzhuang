@@ -56,11 +56,11 @@
     <img height='180' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenxiangzhuang&theme=react" />
 </p>
 
-<p align="center"> 
+<!-- <p align="center"> 
     <img alt="Xiangzhuang Shen's github stats" 
          height='180' src="https://github-readme-stats.vercel.app/api?username=shenxiangzhuang&count_private=true&show_icons=true&include_all_commits=false&theme=react" />
     <img height='180' src="https://api.githubtrends.io/user/svg/shenxiangzhuang/langs?time_range=one_year&compact=True&theme=dark" />
-</p>
+</p> -->
 
 
 
