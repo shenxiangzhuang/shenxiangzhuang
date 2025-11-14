@@ -26,6 +26,7 @@
     - 🐍[zhplot](https://github.com/shenxiangzhuang/zhplot): 一行代码搞定 Python 图表中文展示
     - 🐍[mppt](https://github.com/shenxiangzhuang/mppt): A Modern Python Package Template
     - 🐍[pysesd](https://github.com/shenxiangzhuang/pysesd): Time Series Seasonal Extreme Studentized Deviate(S-ESD) in Python
+    - 🦀[libspot-rs](https://github.com/shenxiangzhuang/libspot-rs): Rust implementations of the SPOT (Streaming Peaks Over Threshold) algorithm
     - 🦀[bleuscore](https://github.com/shenxiangzhuang/bleuscore): BLEU Score in Rust
     - 🦀[shapley](https://github.com/shenxiangzhuang/shapley): Shapley Value in Rust
     - 💧[qwen](https://github.com/shenxiangzhuang/qwen): Elixir ❤️ Qwen
