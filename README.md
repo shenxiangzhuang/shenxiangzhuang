@@ -15,6 +15,22 @@
 - 🔭 Prior to ByteDance, I contributed to algorithm research in network security (risk management) at [Tencent](https://github.com/Tencent).
 - 🔭 My academic background is in statistics, having earned both my undergraduate degree from Hainan University (HNU) and my graduate degree from Sun Yat-sen University ([SYSU](https://github.com/sysu)) in this field.
 
+# Blog
+- 2025-11: [BERT 论文复现](https://datahonor.com/blog/2025/11/02/bert/)
+- 2025-05: [LLM KV Cache: A Simple Implementation](https://datahonor.com/blog/2025/06/03/llm_kv_cache/)
+- 2025-03: [LLM Speculative Sampling](https://datahonor.com/blog/2025/03/08/llm_sps/)
+- 2025-02: [Deepseek GRPO 中的 KL Divergence](https://datahonor.com/blog/2025/02/23/grpo_kl/)
+- 2025-02: [大语言模型与深度学习书籍推荐](https://datahonor.com/blog/2025/02/20/dl_book/)
+- 2024-12: [LLM in 2024](https://datahonor.com/blog/2024/12/23/ai_think_2024/)
+- 2024-08: [Dawid-Skene 算法](https://datahonor.com/blog/2024/08/21/ds/)
+
+
+# Presentation
+- 2025/02: [Python算法库构建实践——复杂必须存在于某处](https://github.com/shenxiangzhuang/career-public/blob/master/presentation/algorithm-lib.pdf)
+- 2023/12: [MPPT: A Modern Python Package Template](https://github.com/shenxiangzhuang/career-public/blob/master/presentation/mppt.pdf)
+- 2023/08: [Data Mining Odyssey](https://github.com/shenxiangzhuang/career-public/blob/master/presentation/review/2023/career_review_2023_public.pdf)
+- 2020/09: [Technical debt in machine learning systems](https://github.com/shenxiangzhuang/career-public/blob/master/presentation/mlsys/ML-Debt.pdf)
+
 # Projects
 - 🎓Learning & Eduation
     - 🐍[ai glimpse](https://github.com/ai-glimpse): [toyllm](https://github.com/ai-glimpse/toyllm), [toynlp](https://github.com/ai-glimpse/toynlp), [toydl](https://github.com/ai-glimpse/toydl), [toyml](https://github.com/ai-glimpse/toyml), [toyrl](https://github.com/ai-glimpse/toyrl)
@@ -37,21 +53,7 @@
     - ⚛️[llm literature](https://github.com/llm-literature): [calvino](https://github.com/llm-literature)
 
 
-# Blog
-- 2025-11: [BERT 论文复现](https://datahonor.com/blog/2025/11/02/bert/)
-- 2025-05: [LLM KV Cache: A Simple Implementation](https://datahonor.com/blog/2025/06/03/llm_kv_cache/)
-- 2025-03: [LLM Speculative Sampling](https://datahonor.com/blog/2025/03/08/llm_sps/)
-- 2025-02: [Deepseek GRPO 中的 KL Divergence](https://datahonor.com/blog/2025/02/23/grpo_kl/)
-- 2025-02: [大语言模型与深度学习书籍推荐](https://datahonor.com/blog/2025/02/20/dl_book/)
-- 2024-12: [LLM in 2024](https://datahonor.com/blog/2024/12/23/ai_think_2024/)
-- 2024-08: [Dawid-Skene 算法](https://datahonor.com/blog/2024/08/21/ds/)
 
-
-# Presentation
-- 2025/02: [Python算法库构建实践——复杂必须存在于某处](https://github.com/shenxiangzhuang/career-public/blob/master/presentation/algorithm-lib.pdf)
-- 2023/12: [MPPT: A Modern Python Package Template](https://github.com/shenxiangzhuang/career-public/blob/master/presentation/mppt.pdf)
-- 2023/08: [Data Mining Odyssey](https://github.com/shenxiangzhuang/career-public/blob/master/presentation/review/2023/career_review_2023_public.pdf)
-- 2020/09: [Technical debt in machine learning systems](https://github.com/shenxiangzhuang/career-public/blob/master/presentation/mlsys/ML-Debt.pdf)
 
 <p align="center"> 
     <img height='180' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenxiangzhuang&theme=react" />
