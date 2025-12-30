@@ -10,7 +10,7 @@
 
 
 # About [Mathew Shen]
-- 🔭 Currently, I'm a Senior Machine Learning Engineer at [NetEase Fuxi](https://fuxi.163.com/), focusing on Data-Centric AI.
+- 🔭 Currently, I'm a Senior Machine Learning Engineer at NetEase Fuxi, focusing on Data-Centric AI.
 - 🔭 Previously, I worked at [ByteDance](https://github.com/bytedance) as an Machine Learning Engineer in the AIOps field. 
 - 🔭 Prior to ByteDance, I contributed to algorithm research in network security (risk management) at [Tencent](https://github.com/Tencent).
 - 🔭 My academic background is in statistics, having earned both my undergraduate degree from Hainan University (HNU) and my graduate degree from Sun Yat-sen University ([SYSU](https://github.com/sysu)) in this field.
