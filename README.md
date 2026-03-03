@@ -29,7 +29,7 @@
 - 2025-02: [Deepseek GRPO 中的 KL Divergence](https://mathewshen.me/blog/2025/grpo-kl/)
 - 2025-02: [大语言模型与深度学习书籍推荐](https://mathewshen.me/blog/2025/dl-book/)
 - 2024-12: [LLM in 2024](https://mathewshen.me/blog/2024/ai-think-2024/)
-- 2024-08: [Dawid-Skene 算法]https://mathewshen.me/blog/2024/ds/)
+- 2024-08: [Dawid-Skene 算法](https://mathewshen.me/blog/2024/ds/)
 
 
 # Presentation
