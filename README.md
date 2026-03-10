@@ -17,6 +17,7 @@
 
 # Projects
 
+- [kcastle](https://github.com/shenxiangzhuang/kcastle): A simple agent framework.
 - 🐍 [ai glimpse](https://github.com/ai-glimpse): [toyllm](https://github.com/ai-glimpse/toyllm), [toynlp](https://github.com/ai-glimpse/toynlp), [toydl](https://github.com/ai-glimpse/toydl), [toyml](https://github.com/ai-glimpse/toyml), [toyrl](https://github.com/ai-glimpse/toyrl)
 - 🦀 [libspot-rs](https://github.com/shenxiangzhuang/libspot-rs), [bleuscore](https://github.com/shenxiangzhuang/bleuscore)
 - ⚛️ [calvino](https://github.com/llm-literature)
