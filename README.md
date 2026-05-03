@@ -10,7 +10,7 @@
 
 
 # About [Mathew Shen]
-- 🔭 Currently, I'm a Machine Learning Engineer at Bytedance(again).
+- 🔭 Currently, I'm a Machine Learning Engineer at [ByteDance](https://github.com/bytedance)(again).
 - 🔭 Before this, I'm a Machine Learning Engineer at NetEase Fuxi, focusing on Data-Centric AI.
 - 🔭 Earlier, I worked at [ByteDance](https://github.com/bytedance) as an Machine Learning Engineer in the AIOps field. 
 - 🔭 Prior to that, I contributed to algorithm research in network security (risk management) at [Tencent](https://github.com/Tencent).
