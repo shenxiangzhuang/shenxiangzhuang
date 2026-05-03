@@ -11,10 +11,10 @@
 
 # About [Mathew Shen]
 - 🔭 Currently, I'm a Machine Learning Engineer at Bytedance(again).
-- 🔭 Previously, I'm a Machine Learning Engineer at NetEase Fuxi, focusing on Data-Centric AI.
-- 🔭 Previously, I worked at [ByteDance](https://github.com/bytedance) as an Machine Learning Engineer in the AIOps field. 
-- 🔭 Prior to ByteDance, I contributed to algorithm research in network security (risk management) at [Tencent](https://github.com/Tencent).
-- 🔭 My academic background is in statistics, having earned both my undergraduate degree from Hainan University (HNU) and my graduate degree from Sun Yat-sen University ([SYSU](https://github.com/sysu)) in this field.
+- 🔭 Before this, I'm a Machine Learning Engineer at NetEase Fuxi, focusing on Data-Centric AI.
+- 🔭 Earlier, I worked at [ByteDance](https://github.com/bytedance) as an Machine Learning Engineer in the AIOps field. 
+- 🔭 Prior to that, I contributed to algorithm research in network security (risk management) at [Tencent](https://github.com/Tencent).
+- 🔭 My academic roots lie in statistics, having earned both my undergraduate degree from Hainan University (HNU) and my graduate degree from Sun Yat-sen University ([SYSU](https://github.com/sysu)) in this field.
 
 # Projects
 
